@@ -1,4 +1,4 @@
-# **Analysis of Saudi Football League Scheduling in Relation to Prayer Times**
+# **Analysis of Roshn League (Saudi Pro League) Scheduling about Prayer Times**
 
 ## Overview
 This project provides a comprehensive analysis of the scheduling practices in the Saudi Football League, focusing on the 2023/24 and 2024/25 seasons. The primary objective is to evaluate how well the match schedules align with daily prayer times, reflecting the cultural and religious values of Saudi Arabia. This analysis highlights a significant improvement in scheduling practices under the guidance of Crown Prince Mohammed bin Salman, leading to a more harmonious balance between sports and religious obligations.
