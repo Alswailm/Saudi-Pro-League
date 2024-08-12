@@ -24,6 +24,9 @@ The primary objective of this project is to evaluate how the match schedules of 
 - **Cleaning:** The data was meticulously cleaned to remove any inconsistencies or errors, aligning the prayer times data with the match schedules.
 - **Transformation:** The cleaned data was then transformed into a structured format suitable for analysis.
 
+![Dashboard](https://github.com/Alswailm/Saudi-Pro-League/blob/main/image.png)
+![Details](https://github.com/Alswailm/Saudi-Pro-League/blob/main/image2.png)
+
 ## Analysis and Key Findings
 ### 2023/24 Season
 - **Total Matches:** 306
