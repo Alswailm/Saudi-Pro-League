@@ -1,30 +1,50 @@
-# **Analysis of Roshn League (Saudi Pro League) Scheduling about Prayer Times**
+# Saudi Football League Scheduling Analysis
 
 ## Overview
-This project provides a comprehensive analysis of the scheduling practices in the Saudi Football League, focusing on the 2023/24 and 2024/25 seasons. The primary objective is to evaluate how well the match schedules align with daily prayer times, reflecting the cultural and religious values of Saudi Arabia. This analysis highlights a significant improvement in scheduling practices under the guidance of Crown Prince Mohammed bin Salman, leading to a more harmonious balance between sports and religious obligations.
+This project delves into the intricate relationship between the scheduling of Saudi Football League matches and the observance of daily prayer times across two distinct seasons: 2023/24 and 2024/25. Under the guidance of His Royal Highness Crown Prince Mohammed bin Salman bin Abdulaziz Al Saud, significant changes were made to ensure that the league’s scheduling practices respect the religious and cultural values of the Kingdom.
 
-## Background
-### **2023/24 Season**
-The match schedules in this season often conflicted with prayer times. Matches were spread throughout the day, leading to several overlaps with Asr, Maghrib, and Isha prayers. These scheduling decisions likely prioritized broader live streaming rights and global viewership, but they did not fully consider the importance of prayer times, resulting in an average conflict of 6.46 minutes.
-
-### **2024/25 Season**
-Responding to the directive of Crown Prince Mohammed bin Salman, the league's scheduling practices were revamped to eliminate conflicts with prayer times. Matches were strategically scheduled later in the day, ensuring they did not overlap with prayer times. As a result, the 2024/25 season shows no conflicts with any of the daily prayers, reflecting a deep respect for Saudi Arabia's cultural and religious norms.
+### "Failing to respect prayer times in scheduling is absolutely unacceptable."  
+**– His Royal Highness Crown Prince Mohammed bin Salman bin Abdulaziz Al Saud**
 
 ## Objective
-The project aims to:
-1. **Compare the two seasons** to highlight the changes made in scheduling practices.
-2. **Quantify the overlap** between match times and prayer times in both seasons.
-3. **Visualize the impact** of these scheduling adjustments, showing how the 2024/25 season better respects daily prayer routines.
+The primary objective of this project is to evaluate how the match schedules of the Saudi Football League align with daily prayer times, particularly focusing on the improvements made in the 2024/25 season compared to the 2023/24 season. The project seeks to:
+- **Analyze and quantify** the overlap between match times and prayer times.
+- **Visualize the impact** of scheduling decisions on the conflict with prayer times.
+- **Highlight the positive changes** brought about by the new scheduling practices under the Crown Prince's leadership.
 
-## Methodology
-- **Data Collection:** Match times and prayer times were gathered from "AlMosaly" & "Tranfermaket" for both the 2023/24 and 2024/25 seasons.
-- **Analysis:** The match times were compared against the prayer times for Asr, Maghrib, and Isha to identify any conflicts. These conflicts were quantified in terms of the minutes of overlap.
-- **Visualization:** The results were visualized using Power BI, providing clear insights into how the schedules were adjusted from one season to the next.
+## Data Collection and Processing
+### 1. Data Sources
+- **Match Times:** Collected from [Transfermarkt](https://www.transfermarkt.com/) for both the 2023/24 and 2024/25 seasons.
+- **Prayer Times:** Gathered from the **Al-Mosally** app, which provides accurate prayer timings for various cities across Saudi Arabia.
 
-## Key Findings
-- The 2023/24 season had numerous conflicts, with matches often overlapping with prayer times, leading to an average conflict of 6.46 minutes.
-- The 2024/25 season successfully eliminated all conflicts, with no matches scheduled during prayer times, demonstrating a thoughtful alignment with cultural and religious practices.
+### 2. Data Preparation
+- **Extraction:** Raw data was extracted from the above-mentioned sources.
+- **Cleaning:** The data was meticulously cleaned to remove any inconsistencies or errors, aligning the prayer times data with the match schedules.
+- **Transformation:** The cleaned data was then transformed into a structured format suitable for analysis.
 
+## Analysis and Key Findings
+### 2023/24 Season
+- **Total Matches:** 306
+- **Overlap with Prayer Times:** Approximately 44.4% of the matches (about 136 matches) overlapped with prayer times, particularly with Asr, Maghrib, and Isha.
+- **Average Overlap:** The average overlap across these matches was **6.46 minutes**.
+
+### 2024/25 Season
+- **Total Matches:** 306
+- **Overlap with Prayer Times:** Following the directive of Crown Prince Mohammed bin Salman, the scheduling was entirely restructured to avoid any conflict with prayer times.
+- **Outcome:** No matches in the 2024/25 season overlapped with prayer times, marking a significant shift in scheduling practices.
+
+## Visualization
+The Power BI dashboard provides an interactive way to explore the data and insights generated by this analysis. Key visualizations include:
+- **Average Conflict Minutes Card:** Displays the average minutes of overlap between match times and prayer times for the 2023/24 season.
+- **Comparison Chart:** Shows the conflict rates for each prayer across both seasons.
+- **Match Timelines:** A side-by-side comparison of match schedules for both seasons.
+
+## Implications and Significance
+This analysis underscores the importance of aligning national sports activities with the cultural and religious values of the Kingdom. The transition from the 2023/24 to the 2024/25 season sets a new benchmark for how sports scheduling can be managed respectfully.
 
 ## Conclusion
-This project demonstrates the positive impact of culturally sensitive scheduling practices in the Saudi Football League. The transition from the 2023/24 to the 2024/25 season, guided by the vision of Crown Prince Mohammed bin Salman, reflects a commitment to respecting the cultural and religious values of Saudi Arabia while continuing to promote the growth of the sport. The successful alignment of match schedules with prayer times in the 2024/25 season sets a benchmark for future sports scheduling in the region.
+The project’s findings highlight the substantial progress made in the Saudi Football League’s scheduling practices, demonstrating commitment to respecting religious practices while continuing to grow the sport.
+
+
+## Acknowledgments
+Special thanks to His Royal Highness Crown Prince Mohammed bin Salman bin Abdulaziz Al Saud for his leadership in promoting a balance between cultural values and the growing popularity of football in Saudi Arabia.
