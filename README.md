@@ -25,7 +25,7 @@ The primary objective of this project is to evaluate how the match schedules of 
 - **Transformation:** The cleaned data was then transformed into a structured format suitable for analysis.
 
 ![Dashboard](https://github.com/Alswailm/Saudi-Pro-League/blob/main/image.png)
-![Details](https://github.com/Alswailm/Saudi-Pro-League/blob/main/Details.png)
+![Details](https://github.com/Alswailm/Saudi-Pro-League/blob/main/Det.png)
 
 ## Analysis and Key Findings
 ### 2023/24 Season
